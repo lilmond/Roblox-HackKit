@@ -12,6 +12,8 @@ Unnamed ESP - https://github.com/lilmond/Unnamed-ESP
 
 Aimbot Lite - https://github.com/lilmond/Aimbot-Lite
 
+Aimbot V3 - https://github.com/lilmond/Aimbot-V3
+
 # Specific Game Scripts And Experimentals
 Bloxburg Autofarm (ANY FLATFORM) (REQUIRES 99%+ UNC EXECUTOR) - https://github.com/lilmond/Bloxburg-Autofarm
 
