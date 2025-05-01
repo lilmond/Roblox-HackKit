@@ -1,6 +1,8 @@
 # Roblox-HackKit
 Hacks for life. :D
 
+Discord (Roblox Exploiters Hangout): https://discord.gg/87RukNzFYX
+
 Please leave a star for support. 💖
 
 # Hack Kit
