@@ -1,5 +1,6 @@
 -- Credits: github@lilmond
 -- How to use: Get into your car first before executing this script
+-- Discord (Roblox Exploiters Hangout): https://discord.gg/87RukNzFYX
 
 local player = game:GetService("Players").LocalPlayer
 local virtualuser = game:GetService("VirtualUser")
