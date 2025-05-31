@@ -28,23 +28,29 @@ Fe Magneto (Experimental) - https://github.com/lilmond/roblox_fe_magneto
 Build A Boat For Treasure Autofarm - https://github.com/lilmond/BABFT_Autofarm
 
 ## My Loader
-Don't ask what this is lol
+Don't ask what this is lol, but let me call it the **Loadstring Loader**
 
 ```lua
 local kits = {
     -- FLY SCRIPT
     "https://raw.githubusercontent.com/lilmond/roblox_fly_script/refs/heads/main/latest.lua",
-    -- REVIZ ADMIN (UNDETECTED)
-    "https://github.com/lilmond/Reviz-Admin/raw/refs/heads/main/reviz_admin_undetected.lua",
+
     -- UNNAMED ESP
     "https://raw.githubusercontent.com/lilmond/Unnamed-ESP/refs/heads/master/UnnamedESP.lua",
+
+    -- REVIZ ADMIN (UNDETECTED)
+    --"https://github.com/lilmond/Reviz-Admin/raw/refs/heads/main/reviz_admin_undetected.lua",
+
+    -- INFINITE YIELD
+    "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+    
     -- FLING
-    "https://raw.githubusercontent.com/lilmond/roblox_fly_script/refs/heads/main/fling_v1.5.lua"
+    --"https://raw.githubusercontent.com/lilmond/roblox_fly_script/refs/heads/main/fling_v1.5.lua"
 }
 
 local whiteOnly = false
 local whiteLists = {
-    
+
 }
 
 local function isWhiteListed()
