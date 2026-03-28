@@ -47,7 +47,7 @@ local kits = {
     "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
     
     -- FLING
-    --"https://raw.githubusercontent.com/lilmond/roblox_fly_script/refs/heads/main/fling_v1.5.lua"
+    --"https://raw.githubusercontent.com/lilmond/roblox_fly_script/refs/heads/main/fling_v1.5.1.lua"
 }
 
 local whiteOnly = false
